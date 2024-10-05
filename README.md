@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Faylina, the Coding Sorceress!
-- 👀 I’m interested in AI and full-stack web development.
+![Header](./github_header_image.png)
+- 👀 I’m a certified full-stack web developer (JavaScript, PHP, Python, HTML, CSS).
 - 🌱 I’m currently learning AI, machine learning and data science.
 - 💞️ I’m looking for new professional challenges!
 - 📫 You can reach me via the contact form on my portfolio website [CodingSorceress.com](https://codingsorceress.com/)
